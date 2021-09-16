@@ -1,0 +1,46 @@
+@charset "UFT-8";
+
+#Filmes{
+    
+    display: block;
+    width: 69%;
+    float: left;
+    border: 2px solid rgb(203, 207, 211);
+    margin: 4px auto;
+
+}
+#filme_lateral{
+
+    display: block;
+    width: 28%;
+    float: right;
+    margin: 15px auto;
+    padding: 10px;
+
+}
+
+#Filmes p, #filme_lateral p{
+
+    text-align: justify;
+    padding: 0px 0px;
+
+}
+.Filme_1{
+
+    color: rgb(215, 219, 221);
+    font-size: 1.8em;
+    text-align: center;
+    margin: 2px 0px;
+
+}
+table{
+
+    text-align: center;
+    margin: 0px auto;
+
+}
+#img_2{
+
+    float: left;
+
+}
