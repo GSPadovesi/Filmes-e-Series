@@ -1,0 +1,38 @@
+@charset "UFT-8";
+.galeria1{
+
+    width: 800px;
+    height: 480px;
+    margin: 20px auto;
+
+}
+.album_fotos{
+
+    list-style: none;
+    margin: 0 auto;
+    padding: 50px;
+
+}
+.album_fotos li{
+
+    display: block;
+    float: left;
+    margin: 3px;
+    position: relative;
+
+}
+.album_fotos img{
+
+    width: 200px;
+    height: 165px;
+    padding: 5px;
+    border: 1px solid rgb(128, 128, 209);
+    background: #fff;
+
+}
+.foto:hover{
+
+    transform: scale(1.5);
+    z-index: 5;
+
+} 

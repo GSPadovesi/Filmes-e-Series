@@ -1,0 +1,36 @@
+@charset "UFT-8";
+
+/* Fazendo o CSS do formulario do site */
+
+form{
+    width: 60%;
+    margin: auto;
+}
+fieldset{
+
+    text-align: center;
+}
+input, textarea{
+
+    background: rgb(205, 206, 208);
+    font-size: 1.0em;
+    font-family: sans-serif;
+ 
+}   
+input:hover, textarea:hover{
+
+    background: rgb(92, 92, 94);
+
+}
+legend{
+
+    color: lightslategrey;
+    font-size: 1.0em;
+    font-weight: initial;
+}
+
+.btn:hover{
+
+    background: rgb(4, 55, 102);
+
+}
